@@ -17,8 +17,8 @@ map.addLayer({
         type: 'circle',
         source: 'points-data',
         paint: {
-            'circle-color': '#4264FB',
-            'circle-radius': 6,
+            'circle-color': '#FF7F00',
+            'circle-radius': 10,
             'circle-stroke-width': 2,
             'circle-stroke-color': '#ffffff'
         }
